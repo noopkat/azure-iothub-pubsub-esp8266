@@ -18,8 +18,7 @@ Libraries needed (install via the Arduino IDE Library Manager):
 
 1. ESP8266WiFi
 2. PubSubClient
-3. ESP8266WiFi
-4. ArduinoJson
+3. ArduinoJson
 
 **Important:** Before starting, follow the steps below to increase the message size allowed within the PubSubClientLibrary. This is necessary as the IoT Hub SAS token length exceeds the default allowable message size.
 
